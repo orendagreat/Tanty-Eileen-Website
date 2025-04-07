@@ -1,0 +1,29 @@
+@media (max-width: 768px) {
+    nav ul li {
+        display: block;
+        margin: 10px 0;
+    }
+
+    .hero {
+        padding: 30px 15px;
+    }
+
+    .btn {
+        width: 80%;
+        margin-top: 20px;
+    }
+
+    form input, form textarea {
+        width: 90%;
+    }
+    body {
+        background-color: #e6f7ff; /* light sky blue */
+      }
+      body {
+        background-image: url('c:\Users\Oren Hagley\OneDrive\Desktop\WEBSITE 2025\BGROUND.jpg');
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+      }
+      
+}
